@@ -1,3 +1,5 @@
+![claimcheck](assets/preview.png)
+
 # claimcheck
 
 Your docs make claims. claimcheck proves them. A zero dependency checker that reads a repository's Markdown and verifies what it says against what is actually on disk: linked files must exist, anchors must match real headings, and file paths quoted in inline code must be real paths.
